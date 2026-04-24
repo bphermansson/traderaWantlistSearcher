@@ -1,2 +1,3 @@
 wantlist_cache.json
 *.csv
+__pycache__
